@@ -1,2 +1,2 @@
-# yfjs-compiled
- 前端组件库YFjs编译后的 CSS、JavaScript 和字体文件。包含压缩和未压缩两个目录，可酌情使用 
+# YFjs Compiled
+前端组件库 [YFjs](https://github.com/jinzhk/yfjs) 编译后的 CSS、JavaScript 和字体文件 Zip 包，可直接解压使用。
